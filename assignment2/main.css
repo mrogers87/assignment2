@@ -1,0 +1,25 @@
+#left {
+  float: left;
+  width: 50%;
+  overflow: hidden;
+      border: 2px solid #73AD21;
+}
+#right {
+  overflow: hidden;
+      border: 2px solid #73AD21;
+}
+#relative {
+    position: relative;
+    width:  200px;
+    height: 100px;
+    border: 2px solid #73AD21;
+}
+#fixed {
+  position: fixed;
+  top
+  bottom: 200px;
+  left:  325px;
+  right: 300px;
+  width: 200px;
+  border: 2px solid #73AD21;
+}
